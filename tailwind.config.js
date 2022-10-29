@@ -11,6 +11,15 @@ module.exports = {
       fontFamily: {
         'league-md' : 'League Spartan Med',
         'league-b' : 'League Spartan Bold',
+      },
+      fontSize: {
+        'default' : '15px',
+        'title' : '20px',
+      },
+      colors: {
+        'tag-text-col' : 'hsl(180, 29%, 50%)',
+        'dark-grey-cyan' : 'hsl(180, 8%, 52%)',
+        'filter-tablets' : 'hsl(180, 31%, 95%)',
       }
     },
   },
