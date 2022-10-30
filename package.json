@@ -1,7 +1,7 @@
 {
   "name": "front-end-mentor-jobs-challenge",
   "version": "0.1.0",
-  "homepage": "https://github.com/poggur/Jobs-Challenge",
+  "homepage": "https://github.com/poggur/Jobs-Challenge/src/App.js",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
