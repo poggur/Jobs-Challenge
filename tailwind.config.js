@@ -14,13 +14,18 @@ module.exports = {
       },
       fontSize: {
         'default' : '15px',
+        'default-large' : '20px',
         'title' : '20px',
+        'title-large' : '25px',
       },
       colors: {
         'tag-text-col' : 'hsl(180, 29%, 50%)',
         'dark-grey-cyan' : 'hsl(180, 8%, 52%)',
         'filter-tablets' : 'hsl(180, 31%, 95%)',
       }
+    },
+    screens: {
+      '2xl' : {'min' : '1920px'},
     },
   },
   plugins: [],
