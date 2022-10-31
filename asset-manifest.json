@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Jobs-Challenge/static/css/main.cf0d2571.css",
-    "main.js": "/Jobs-Challenge/static/js/main.25d7ccce.js",
+    "main.css": "/Jobs-Challenge/static/css/main.b88963f6.css",
+    "main.js": "/Jobs-Challenge/static/js/main.bb6fe936.js",
     "static/js/787.8b1d2e66.chunk.js": "/Jobs-Challenge/static/js/787.8b1d2e66.chunk.js",
     "static/media/LeagueSpartan-Bold.ttf": "/Jobs-Challenge/static/media/LeagueSpartan-Bold.287f5d6604adc2276da9.ttf",
     "static/media/LeagueSpartan-Medium.ttf": "/Jobs-Challenge/static/media/LeagueSpartan-Medium.e855e0cd01fed78be96f.ttf",
     "static/media/bg-header-desktop.svg": "/Jobs-Challenge/static/media/bg-header-desktop.752d0faf14c00c6fb55f.svg",
     "index.html": "/Jobs-Challenge/index.html",
-    "main.cf0d2571.css.map": "/Jobs-Challenge/static/css/main.cf0d2571.css.map",
-    "main.25d7ccce.js.map": "/Jobs-Challenge/static/js/main.25d7ccce.js.map",
+    "main.b88963f6.css.map": "/Jobs-Challenge/static/css/main.b88963f6.css.map",
+    "main.bb6fe936.js.map": "/Jobs-Challenge/static/js/main.bb6fe936.js.map",
     "787.8b1d2e66.chunk.js.map": "/Jobs-Challenge/static/js/787.8b1d2e66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf0d2571.css",
-    "static/js/main.25d7ccce.js"
+    "static/css/main.b88963f6.css",
+    "static/js/main.bb6fe936.js"
   ]
 }
