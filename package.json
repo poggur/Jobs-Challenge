@@ -2,6 +2,7 @@
   "homepage": "https://poggur.github.io/Jobs-Challenge",
   "name": "front-end-mentor-jobs-challenge",
   "version": "0.1.0",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
