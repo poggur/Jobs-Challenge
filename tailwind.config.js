@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'banner-desktop': "url('images/bg-header-desktop.svg')",
+        'banner-desktop': "url('./images/bg-header-desktop.svg')",
       },
       fontFamily: {
         'league-md' : 'League Spartan Med',

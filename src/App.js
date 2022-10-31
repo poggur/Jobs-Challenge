@@ -3,10 +3,11 @@ import Data from './data.json'
 
 function App() {
   return (
-    <div className="w-[100%] h-full bg-[#effafa] flex items-center flex-col">
-      <div className="bg-[#5ba4a4] w-screen h-[14%] 2xl:h-[9%] mb-10">
-        <div className="bg-banner-desktop w-screen h-[100%] " />
+    <div className="w-screen h-full bg-[#effafa] flex items-center flex-col">
+      <div className="bg-[#5ba4a4] w-screen h-[14%] 2xl:h-[9%]">
+        <div className="bg-banner-desktop w-screen h-[100%] pb-20" />
       </div>
+
       {
         Data.map((data, i) => {
           return (
